@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/QRTGitHub1/bin
+/QRTGitHub1/obj/Debug
+/QRTGitHub1/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1
